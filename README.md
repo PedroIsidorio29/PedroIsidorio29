@@ -1,6 +1,5 @@
 ### Oiii!! Eu sou Pedro H I Souza
-- 🔭 
-- 🌱 Estudando: Vue e React
+- 🔭 Estudando: React e React Native
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
