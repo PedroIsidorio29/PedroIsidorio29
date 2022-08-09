@@ -1,8 +1,12 @@
-### Oiii!! Eu sou Pedro H I Souza
-- 🔭 Estudando: React e React Native
+<h1 align="center">Hi there, I'm <a href="https://apleon.github.io/rsschool-cv/" target="_blank">Pedro Isidorio</a>
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center"> I'm a full stack developer</h3>
+
+<!-- ### Oiii!! Eu sou Pedro H I Souza
+- 🔭 Estudando: React e React Native -->
 
 <div align="center">
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/PedroIsidorio29">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=PedroIsidorio29&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroIsidorio29&layout=compact&langs_count=7&theme=dark"/>
 </div>
