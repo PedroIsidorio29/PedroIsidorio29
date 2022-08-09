@@ -1,7 +1,13 @@
 <h1 align="center">Hi there, I'm <a href="https://apleon.github.io/rsschool-cv/" target="_blank">Pedro Isidorio</a>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center"> I'm a full stack developer</h3>
+<h3 align="center"> <img height="300" src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif"/></h3>
 
+```
+Estudante de Análise e desenvolvimento de Sistemas - UNA Belo Horizonte, 
+sou fascinado por computação desde novo, tenho experiência na área de desenvolvimento front-end (apesar de não ser muita rsrsrs)
+e atualmente tenho me dedicado a me tornar um dev fullstack.
+```
 <!-- ### Oiii!! Eu sou Pedro H I Souza
 - 🔭 Estudando: React e React Native -->
 
@@ -16,6 +22,7 @@
   <img align="center" alt="pedro-css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="pedro-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="pedro-TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+  <img align="center" alt="pedro-node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="pedro-flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
   <img align="center" alt="pedro-dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
   <img align="center" alt="pedro-firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg">
