@@ -40,4 +40,3 @@ e atualmente tenho me dedicado a me tornar um dev fullstack.
   ![Snake animation](https://github.com/PedroIsidorio29/PedroIsidorio29/blob/output/github-contribution-grid-snake.svg)
   
 </div>
-  
