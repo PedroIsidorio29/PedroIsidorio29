@@ -5,7 +5,7 @@
 
 ```
 Estudante de Análise e desenvolvimento de Sistemas - UNA Belo Horizonte, 
-sou fascinado por computação desde novo, tenho experiência na área de desenvolvimento front-end (apesar de não ser muita rsrsrs)
+sou fascinado por computação desde novo, tenho certa experiência na área (apesar de não ser muita rsrsrs)
 e atualmente tenho me dedicado a me tornar um dev fullstack.
 ```
 <!-- ### Oiii!! Eu sou Pedro H I Souza
