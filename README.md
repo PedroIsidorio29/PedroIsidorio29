@@ -1,16 +1,14 @@
 <h1 align="center">Hi there, I'm <a href="https://apleon.github.io/rsschool-cv/" target="_blank">Pedro Isidorio</a>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center"> I'm a full stack developer</h3>
+<h3 align="center"> I'm a fron-end developer</h3>
 <h3 align="center"> <img height="300" src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif"/></h3>
 
 ```
 Estudante de Análise e desenvolvimento de Sistemas - UNA Belo Horizonte, 
 sou fascinado por computação desde novo, tenho certa experiência na área (apesar de não ser muita rsrsrs)
 e atualmente tenho me dedicado a me tornar um dev fullstack.
+🔭 Estudando: React e React Native
 ```
-<!-- ### Oiii!! Eu sou Pedro H I Souza
-- 🔭 Estudando: React e React Native -->
-
 <div align="center">
   <a href="https://github.com/PedroIsidorio29">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroIsidorio29&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
