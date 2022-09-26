@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://apleon.github.io/rsschool-cv/" target="_blank">Pedro Isidorio</a>
+<h1 align="center">Hi there, I'm Pedro Isidorio
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center"> I'm a fron-end developer</h3>
 <h3 align="center"> <img height="300" src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif"/></h3>
@@ -11,8 +11,8 @@ e atualmente tenho me dedicado a me tornar um dev fullstack.
 ```
 <div align="center">
   <a href="https://github.com/PedroIsidorio29">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroIsidorio29&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroIsidorio29&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroIsidorio29&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroIsidorio29&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
 <div style="display: inline_block" align="center">
