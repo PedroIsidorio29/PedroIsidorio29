@@ -1,7 +1,5 @@
-<h1 align="center">Hi there, I'm Pedro Isidorio
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">I am currently a full-stack developer.</h3>
 <h3 align="center"><img height="300" src="./img/marioName.gif"/></h3>
+<h3 align="center">I am currently a full-stack developer.</h3>
 
 ```
 Estudante de Análise e desenvolvimento de Sistemas - UNA Belo Horizonte, 
