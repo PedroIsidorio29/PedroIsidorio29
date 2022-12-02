@@ -1,4 +1,4 @@
-<h3 align="center"><img height="300" src="./img/marioName.gif"/></h3>
+<h3 align="center"><img height="400" src="./img/marioName.gif"/></h3>
 <h3 align="center">I am currently a full-stack developer.</h3>
 
 ```
