@@ -2,9 +2,8 @@
 <h3 align="center">I am currently a full-stack developer.</h3>
 
 ```
-Estudante de Análise e desenvolvimento de Sistemas - UNA Belo Horizonte, 
-sou fascinado por computação desde novo, tenho certa experiência na área (apesar de não ser muita rsrsrs)
-e atualmente tenho me dedicado a me tornar um dev fullstack.
+Graduado de Análise e desenvolvimento de Sistemas - UNA Belo Horizonte,
+atualmente tenho me dedicado a me tornar um dev fullstack.
 🔭 Estudando: React e React Native
 ```
 <div align="center">
