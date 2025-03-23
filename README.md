@@ -1,32 +1,24 @@
-<h3 align="center"><img height="400" src="./img/marioName.gif"/></h3>
-<h3 align="center">I am currently a full-stack developer.</h3>
+<h3 align="center"><img height="250" src="./img/marioName.gif"/></h3>
+<h3 align="center">Full-stack developer.</h3>
 
 ```
 Atualmente trabalhando como desenvolvedor Front-End.
 Cursando Engenharia da Computação - Descomplica.
 Formado em ADS - UNA Belo Horizonte.
-🔭 Estudando: React e React Native.
+Resolvendo problemas desde 2020
+🔭 Estudando: Docker
 ```
-<div align="center">
-  <a href="https://github.com/PedroIsidorio29">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroIsidorio29&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroIsidorio29&layout=compact&langs_count=7&theme=dark"/>
-</div>
+
   
   <h4 style="display: inline_block" align="center"> Some technologies I've worked with. <h4>
   
 <div style="display: inline_block" align="center" >
-  <img align="center" alt="pedro-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="pedro-css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="pedro-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="pedro-TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
   <img align="center" alt="pedro-vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
-  <img align="center" alt="pedro-nuxt" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg">
   <img align="center" alt="pedro-angularjs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="pedro-react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="center" alt="pedro-bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="pedro-flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
-  <img align="center" alt="pedro-dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
   <img align="center" alt="pedro-node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="pedro-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="pedro-spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
