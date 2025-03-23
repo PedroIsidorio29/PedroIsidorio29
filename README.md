@@ -5,7 +5,7 @@
 Atualmente trabalhando como desenvolvedor Front-End.
 Cursando Engenharia da Computação - Descomplica.
 Formado em ADS - UNA Belo Horizonte.
-Resolvendo problemas desde 2020
+Resolvendo problemas desde 2021
 🔭 Estudando: Docker
 ```
 
